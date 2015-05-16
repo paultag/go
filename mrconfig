@@ -3,3 +3,9 @@ checkout = git clone git@github.com:paultag/go-debian.git
 
 [github.com/paultag/go-dictd]
 checkout = git clone git@github.com:paultag/go-dictd.git
+
+[github.com/paultag/go-dpkg]
+checkout = git clone git@github.com:paultag/go-dpkg.git
+
+[github.com/sunlightlabs/go-sunlight]
+checkout = git clone git@github.com:sunlightlabs/go-sunlight.git
