@@ -1,0 +1,5 @@
+[pault.ag/x/go-debian]
+checkout = git clone git@github.com:paultag/go-debian.git
+
+[github.com/paultag/go-dictd]
+checkout = git clone git@github.com:paultag/go-dictd.git
