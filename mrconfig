@@ -1,11 +1,20 @@
-[pault.ag/x/go-debian]
+[pault.ag/go/debian]
 checkout = git clone git@github.com:paultag/go-debian.git
 
-[github.com/paultag/go-dictd]
-checkout = git clone git@github.com:paultag/go-dictd.git
+[pault.ag/go/tosort]
+checkout = git clone git@github.com:paultag/go-topsort.git
 
-[github.com/paultag/go-dpkg]
-checkout = git clone git@github.com:paultag/go-dpkg.git
+[pault.ag/go/schroot]
+checkout = git clone git@github.com:paultag/go-schroot.git
 
-[github.com/sunlightlabs/go-sunlight]
-checkout = git clone git@github.com:sunlightlabs/go-sunlight.git
+[pault.ag/go/sbuild]
+checkout = git clone git@github.com:paultag/go-sbuild.git
+
+[pault.ag/go/reprepro]
+checkout = git clone git@github.com:paultag/go-reprepro.git
+
+[pault.ag/go/resolver]
+checkout = git clone git@github.com:paultag/go-resolver.git
+
+[pault.ag/go/fancytext]
+checkout = git clone git@github.com:paultag/go-fancytext.git
