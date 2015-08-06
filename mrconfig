@@ -1,20 +1,20 @@
 [pault.ag/go/debian]
-checkout = git clone git@github.com:paultag/go-debian.git
+checkout = git clone git@github.com:paultag/go-debian.git debian
 
-[pault.ag/go/tosort]
-checkout = git clone git@github.com:paultag/go-topsort.git
+[pault.ag/go/topsort]
+checkout = git clone git@github.com:paultag/go-topsort.git topsort
 
 [pault.ag/go/schroot]
-checkout = git clone git@github.com:paultag/go-schroot.git
+checkout = git clone git@github.com:paultag/go-schroot.git schroot
 
 [pault.ag/go/sbuild]
-checkout = git clone git@github.com:paultag/go-sbuild.git
+checkout = git clone git@github.com:paultag/go-sbuild.git sbuild
 
 [pault.ag/go/reprepro]
-checkout = git clone git@github.com:paultag/go-reprepro.git
+checkout = git clone git@github.com:paultag/go-reprepro.git reprepro
 
 [pault.ag/go/resolver]
-checkout = git clone git@github.com:paultag/go-resolver.git
+checkout = git clone git@github.com:paultag/go-resolver.git resolver
 
 [pault.ag/go/fancytext]
-checkout = git clone git@github.com:paultag/go-fancytext.git
+checkout = git clone git@github.com:paultag/go-fancytext.git fancytext
