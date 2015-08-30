@@ -21,3 +21,9 @@ checkout = git clone git@github.com:paultag/go-fancytext.git fancytext
 
 [pault.ag/go/service]
 checkout = git clone git@github.com:paultag/go-service.git service
+
+[pault.ag/go/nmea]
+checkout = git clone git@github.com:paultag/go-nmea.git nmea
+
+[pault.ag/go/minion]
+checkout = git clone git@github.com:paultag/minion.git minion
