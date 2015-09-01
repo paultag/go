@@ -27,3 +27,15 @@ checkout = git clone git@github.com:paultag/go-nmea.git nmea
 
 [pault.ag/go/minion]
 checkout = git clone git@github.com:paultag/minion.git minion
+
+[pault.ag/go/config]
+checkout = git clone git@github.com:paultag/go-config.git config
+
+[pault.ag/go/minica]
+checkout = git clone git@github.com:paultag/minica.git minica
+
+[pault.ag/go/deceive]
+checkout = git clone git@github.com:paultag/deceive.git deceive
+
+[pault.ag/go/descend]
+checkout = git clone git@github.com:paultag/descend.git
