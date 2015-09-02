@@ -38,4 +38,4 @@ checkout = git clone git@github.com:paultag/minica.git minica
 checkout = git clone git@github.com:paultag/deceive.git deceive
 
 [pault.ag/go/descend]
-checkout = git clone git@github.com:paultag/descend.git
+checkout = git clone git@github.com:paultag/descend.git descend
