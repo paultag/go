@@ -42,3 +42,9 @@ checkout = git clone git@github.com:paultag/descend.git descend
 
 [pault.ag/go/enqueued]
 checkout = git clone git@github.com:paultag/enqueued.git enqueued
+
+[pault.ag/go/mailer]
+checkout = git clone git@github.com:paultag/go-mailer.git mailer
+
+[pault.ag/go/dictd]
+checkout = git clone git@github.com:paultag/go-dictd.git dictd
