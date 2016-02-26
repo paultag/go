@@ -48,3 +48,6 @@ checkout = git clone git@github.com:paultag/go-mailer.git mailer
 
 [pault.ag/go/dictd]
 checkout = git clone git@github.com:paultag/go-dictd.git dictd
+
+[pault.ag/go/archive]
+checkout = git clone git@github.com:paultag/go-archive.git archive
