@@ -54,3 +54,15 @@ checkout = git clone git@github.com:paultag/go-archive.git archive
 
 [pault.ag/go/blobstore]
 checkout = git clone git@github.com:paultag/go-blobstore.git blobstore
+
+[pault.ag/go/wmata]
+checkout = git clone git@github.com:paultag/go-wmata.git wmata
+
+[pault.ag/go/sense]
+checkout = git clone git@github.com:paultag/go-sense.git sense
+
+[pault.ag/go/politico]
+checkout = git clone git@github.com:paultag/go-politico.git politico
+
+[pault.ag/go/epson]
+checkout = git clone git@github.com:paultag/go-epson.git epson
