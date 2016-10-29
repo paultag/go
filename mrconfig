@@ -66,3 +66,6 @@ checkout = git clone git@github.com:paultag/go-politico.git politico
 
 [pault.ag/go/epson]
 checkout = git clone git@github.com:paultag/go-epson.git epson
+
+[pault.ag/go/inept]
+checkout = git clone git@github.com:paultag/inept.git inept
