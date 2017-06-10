@@ -72,3 +72,21 @@ checkout = git clone git@github.com:paultag/inept.git inept
 
 [pault.ag/go/wtf]
 checkout = git clone git@github.com:paultag/wtf.git wtf
+
+[pault.ag/go/ykpiv]
+checkout = git clone git@github.com:paultag/go-ykpiv.git ykpiv
+
+[pault.ag/go/pkcs7]
+checkout = git clone git@github.com:paultag/go-pkcs7.git pkcs7
+
+[pault.ag/go/maclookup]
+checkout = git clone git@github.com:paultag/go-maclookup.git maclookup
+
+[pault.ag/go/technicolor]
+checkout = git clone git@github.com:paultag/go-technicolor.git technicolor
+
+[pault.ag/go/gecos]
+checkout = git clone git@github.com:paultag/go-gecos.git gecos
+
+[pault.ag/go/cybercom]
+checkout = git clone git@github.com:paultag/cybercom.git cybercom
