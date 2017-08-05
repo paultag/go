@@ -1,3 +1,6 @@
+[pault.ag/go/haversine]
+checkout = git clone git@github.com:paultag/go-haversine.git haversine
+
 [pault.ag/go/debian]
 checkout = git clone git@github.com:paultag/go-debian.git debian
 
